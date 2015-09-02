@@ -19,7 +19,7 @@ $ npm install mysql-promised
 Suppose we have this table in mysql database:
 
 ```sql
-CREATE TABLE IF NOT EXISTS `user` (
+CREATE TABLE `user` (
   `id` int(10) unsigned NOT NULL,
   `username` varchar(50) NOT NULL,
   `password` varchar(40) NOT NULL,
