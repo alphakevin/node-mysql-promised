@@ -1,6 +1,6 @@
 {
   "name": "mysql-promised",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Promised wrap for felixge/node-mysql using bluebird",
   "main": "index.js",
   "scripts": {
