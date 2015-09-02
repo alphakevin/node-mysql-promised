@@ -1,7 +1,7 @@
 {
-  "name": "node-mysql-promised",
-  "version": "1.0.1",
-  "description": "Promised wrap for node-mysql using bluebird",
+  "name": "mysql-promised",
+  "version": "0.0.1",
+  "description": "Promised wrap for felixge/node-mysql using bluebird",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
