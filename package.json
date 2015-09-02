@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/alphakevin/node-mysql-promised#readme",
   "dependencies": {
+    "bluebird": "^2.9.34",
     "mysql": "^2.9.0",
     "underscore": "^1.8.3",
     "validate.js": "^0.8.0"
