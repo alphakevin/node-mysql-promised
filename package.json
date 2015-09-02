@@ -1,0 +1,28 @@
+{
+  "name": "node-mysql-promised",
+  "version": "1.0.0",
+  "description": "Promised wrap for node-mysql using bluebird",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alphakevin/node-mysql-promised.git"
+  },
+  "keywords": [
+    "mysql",
+    "database"
+  ],
+  "author": "alphakevin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alphakevin/node-mysql-promised/issues"
+  },
+  "homepage": "https://github.com/alphakevin/node-mysql-promised#readme",
+  "dependencies": {
+    "mysql": "^2.9.0",
+    "underscore": "^1.8.3",
+    "validate.js": "^0.8.0"
+  }
+}
